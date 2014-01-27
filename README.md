@@ -12,14 +12,14 @@ andy@minta ~/chatit $ make
 go install
 ###用法
 启动服务器
-andy@minta ~/chatit $ chatit
-Wrong parameter,usage:
-
-chatit server [port]
-    eg: chatit server 9090
-chatit client [Server_Addr]:[Server_Port]
-    eg: chatit client 192.168.0.74:9090
-chatit client [Server_Addr]:[Server_Port] [count]
-    eg: chatit client 192.168.0.74:9090 500
+>andy@minta ~/chatit $ chatit
+>Wrong parameter,usage:
+>
+>chatit server [port]
+>    eg: chatit server 9090
+>chatit client [Server_Addr]:[Server_Port]
+>    eg: chatit client 192.168.0.74:9090
+>chatit client [Server_Addr]:[Server_Port] [count]
+>    eg: chatit client 192.168.0.74:9090 500
 
 
