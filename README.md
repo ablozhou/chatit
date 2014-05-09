@@ -5,7 +5,8 @@ Linux
 Go 语言1.2版本或主线源码编译
 内存8GB
 openfiles 数设为100000以上
-
+###下载
+go get github.com/ablozhou/chatit
 ###编译
 make
 andy@minta ~/chatit $ make
